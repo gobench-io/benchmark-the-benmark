@@ -1,0 +1,11 @@
+---
+
+concurrency: 1000
+base: 'http://nginx'
+iterations: 100
+rampup: 2
+
+plan:
+  - name: Fetch nginx page
+    request:
+      url: /
