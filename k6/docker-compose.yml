@@ -1,14 +1,18 @@
 version: "3"
 services:
     hey:
-        image: loadimpact/k6 
+        image: loadimpact/k6:0.29.0
         container_name: benchmark-client
         restart: unless-stopped
         ports:
             - 8080:8080
-        # command: sh -c "
-        #         apk add hey 
-        #         && hey -n 1000 -c 1000 -m GET http://nginx"
+        environment:
+            SCRIPT: |
+                const http = require('k6/http')
+                export default function () {
+                http.get('http://nginx')
+                }
+        entrypoint: ["sh", "-c", "echo \"$$SCRIPT\" > ~/script.js; k6 run --vus 1000 --duration 30s ~/script.js"]
         networks:
             - app-network
         deploy:
