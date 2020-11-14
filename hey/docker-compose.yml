@@ -6,9 +6,9 @@ services:
         restart: unless-stopped
         ports:
             - 8080:8080
-        command: bash -c "
-                apk add hey 
-                && hey -n 1000 -c 1000 -m GET http://nginx"
+        # command: sh -c "
+        #         apk add hey 
+        #         && hey -n 1000 -c 1000 -m GET http://nginx"
         networks:
             - app-network
         deploy:
