@@ -7,8 +7,8 @@ services:
         ports:
             - 8080:8080
         command: bash -c "
-                python manage.py migrate
-                && python manage.py runserver 0.0.0.0:8000"
+                apk add hey 
+                && hey -n 1000 -c 1000 -m GET http://nginx"
         networks:
             - app-network
         deploy:
