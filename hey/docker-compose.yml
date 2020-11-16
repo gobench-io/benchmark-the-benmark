@@ -3,7 +3,7 @@ services:
     hey:
         image: alpine:3.12
         container_name: benchmark-client
-        restart: unless-stopped
+        restart: 'no'
         ports:
             - 8080:8080
         # command: sh -c "
