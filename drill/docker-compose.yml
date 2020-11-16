@@ -31,9 +31,6 @@ services:
                 limits:
                     cpus: "3"
                     memory: 6g
-                reservations:
-                    cpus: "0.5"
-                    memory: 1g
         depends_on:
             - nginx
     nginx:
@@ -45,9 +42,6 @@ services:
                 limits:
                     cpus: "3"
                     memory: 6g
-                reservations:
-                    cpus: "0.5"
-                    memory: 1g
         tty: true
         ports:
             - "80:80"
