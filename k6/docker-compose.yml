@@ -3,7 +3,7 @@ services:
     hey:
         image: loadimpact/k6:0.29.0
         container_name: benchmark-client
-        restart: 'no'
+        restart: "no"
         ports:
             - 8080:8080
         environment:
@@ -12,8 +12,12 @@ services:
                 export default function () {
                 http.get('http://nginx')
                 }
-        entrypoint: ["sh", "-c", "echo \"$$SCRIPT\" > ~/script.js; k6 run --vus 1000 --duration 30s ~/script.js",
-        "&&", "top","-b",">top.log"]
+        entrypoint:
+            [
+                "sh",
+                "-c",
+                'echo "$$SCRIPT" > ~/script.js; sleep 10 && k6 run --vus=1000 --iterations=1000 ~/script.js && sleep 10',
+            ]
         networks:
             - app-network
         deploy:

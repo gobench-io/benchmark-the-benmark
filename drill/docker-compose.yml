@@ -4,9 +4,26 @@ services:
         # build: .
         image: gobenchmark/drill:latest
         container_name: benchmark-client
-        restart: 'no'
+        restart: "no"
         ports:
             - 8080:8080
+        environment:
+            SCRIPT: |
+                concurrency: 1000
+                base: 'http://nginx'
+                iterations: 1000
+                rampup: 2
+
+                plan:
+                - name: Fetch nginx page
+                    request:
+                    url: /
+        entrypoint:
+            [
+                "sh",
+                "-c",
+                'echo "$$SCRIPT" > ~/benchmark.yml; sleep 10 && /usr/local/bin/drill --benchmark ~/benchmark.yml --stats && sleep 10',
+            ]
         networks:
             - app-network
         deploy:

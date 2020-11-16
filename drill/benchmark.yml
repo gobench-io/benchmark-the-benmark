@@ -2,7 +2,7 @@
 
 concurrency: 1000
 base: 'http://nginx'
-iterations: 100
+iterations: 1000
 rampup: 2
 
 plan:

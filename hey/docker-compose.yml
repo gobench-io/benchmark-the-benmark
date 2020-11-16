@@ -1,14 +1,11 @@
 version: "3"
 services:
     hey:
-        image: alpine:3.12
+        build: .
         container_name: benchmark-client
         restart: 'no'
         ports:
             - 8080:8080
-        # command: sh -c "
-        #         apk add hey 
-        #         && hey -n 1000 -c 1000 -m GET http://nginx"
         networks:
             - app-network
         deploy:
