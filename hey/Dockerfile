@@ -5,5 +5,5 @@ RUN apk add git && \
 
 WORKDIR /$HOME
 
-ENTRYPOINT ["hey", "-n", "1000","-c", "1000", "-m", "GET", "http://nginx"]
+ENTRYPOINT ["hey","-c", "1000","-z","30s","-disable-redirects", "-m", "GET", "http://nginx"]
 

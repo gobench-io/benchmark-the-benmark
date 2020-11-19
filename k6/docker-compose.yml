@@ -7,6 +7,11 @@ services:
         ports:
             - 8080:8080
         environment:
+            SCRIPT_2: |
+                const http = require('k6/http')
+                module.exports.default = function () {
+                http.get('http://nginx')
+                }
             SCRIPT: |
                 const http = require('k6/http')
                 export default function () {
@@ -16,17 +21,30 @@ services:
             [
                 "sh",
                 "-c",
-                'echo "$$SCRIPT" > ~/script.js; sleep 10 && k6 run --vus=1000 --iterations=1000 ~/script.js && sleep 10',
+                # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=30 --duration=30s ~/script.js',
+                'echo "$$SCRIPT_2" > ~/script.js; k6 run --vus=30 --duration=30s --compatibility-mode=base ~/script.js',
             ]
         networks:
             - app-network
         deploy:
             resources:
                 limits:
-                    cpus: "3"
-                    memory: 6g
+                    cpus: "2"
+                    memory: 4g
         depends_on:
             - nginx
+    base:
+        image: loadimpact/k6:0.29.0
+        container_name: benchmark-base
+        restart: 'no'
+        networks:
+            - app-network
+        deploy:
+            resources:
+                limits:
+                    cpus: "2"
+                    memory: 4g
+        entrypoint: ["sh","-c","while sleep 3600; do :; done"]
     nginx:
         image: nginx:alpine
         container_name: nginx
@@ -34,8 +52,8 @@ services:
         deploy:
             resources:
                 limits:
-                    cpus: "3"
-                    memory: 6g
+                    cpus: "2"
+                    memory: 4g
         tty: true
         ports:
             - "80:80"
