@@ -1,8 +1,8 @@
 version: "3"
 services:
     benchmark-client:
-        # build: .
-        image: gobenchmark/drill:latest
+        build: .
+        # image: gobenchmark/drill:latest
         container_name: benchmark-client
         restart: "no"
         ports:
@@ -22,15 +22,29 @@ services:
             [
                 "sh",
                 "-c",
-                'echo "$$SCRIPT" > ~/benchmark.yml; sleep 10 && /usr/local/bin/drill --benchmark ~/benchmark.yml --stats && sleep 10',
+                'echo "$$SCRIPT" > ~/benchmark.yml; /usr/local/bin/drill --benchmark ~/benchmark.yml --stats',
             ]
         networks:
             - app-network
         deploy:
             resources:
                 limits:
-                    cpus: "3"
-                    memory: 6g
+                    cpus: "2"
+                    memory: 4g
+        depends_on:
+            - nginx
+    base:
+        image: alpine:20190707
+        container_name: benchmark-base
+        restart: 'no'
+        networks:
+            - app-network
+        deploy:
+            resources:
+                limits:
+                    cpus: "2"
+                    memory: 4g
+        command: ["sh","-c","while sleep 3600; do :; done"]
         depends_on:
             - nginx
     nginx:
@@ -40,8 +54,8 @@ services:
         deploy:
             resources:
                 limits:
-                    cpus: "3"
-                    memory: 6g
+                    cpus: "2"
+                    memory: 4g
         tty: true
         ports:
             - "80:80"

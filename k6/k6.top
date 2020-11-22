@@ -1,916 +1,102 @@
 [2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               1.75kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               1.23kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               1.75kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               1.23kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               2.73kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               2.73kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               2.73kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               2.73kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               3.36kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               3.36kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               3.36kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               3.36kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               3.81kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               3.81kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               3.81kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               3.81kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               4.3kB / 0B          0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               4.3kB / 0B          0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               4.3kB / 0B          0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               4.3kB / 0B          0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               4.68kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               4.68kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               4.68kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               4.68kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               4.84kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               4.84kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               4.84kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               4.84kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.08kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.08kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.08kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.08kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.24kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.24kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.24kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.24kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.24kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.24kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.24kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.31kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.24kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.31kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.24kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.31kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.24kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.31kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.31kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.31kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.31kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.31kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.31kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.31kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.31kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.31kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.55kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.62kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.62kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.62kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.62kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.62kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.62kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.62kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.62kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.62kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.55kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.62kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.62kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.62kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.62kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.62kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.86kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.86kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.93kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               5.93kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               5.93kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.17kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.24kB / 0B         0B / 0B             2
-[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
-79b3d2221e0a        benchmark-client    0.00%               0B / 0B             0.00%               0B / 0B             0B / 0B             0
-8f2fc61370e5        nginx               0.00%               8.387MiB / 4GiB     0.20%               6.17kB / 0B         0B / 8.19kB         9
-bbd528277c25        benchmark-base      0.00%               1.105MiB / 4GiB     0.03%               6.24kB / 0B         0B / 0B             2
+638234c01310        benchmark-client    0.01%               85.77MiB / 4GiB     2.09%               926B / 180B         0B / 0B             13
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               1.91kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               0.00%               8.441MiB / 4GiB     0.21%               1.25kB / 0B         0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    0.01%               85.77MiB / 4GiB     2.09%               926B / 180B         0B / 0B             13
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               1.91kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               0.00%               8.441MiB / 4GiB     0.21%               1.25kB / 0B         0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    201.04%             127.1MiB / 4GiB     3.10%               3.75MB / 816kB      0B / 0B             15
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               3.03kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               77.36%              9.199MiB / 4GiB     0.22%               842kB / 3.86MB      0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    201.04%             127.1MiB / 4GiB     3.10%               3.75MB / 816kB      0B / 0B             15
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               3.03kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               77.36%              9.199MiB / 4GiB     0.22%               842kB / 3.86MB      0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    208.40%             148MiB / 4GiB       3.61%               7.55MB / 1.64MB     0B / 0B             17
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               3.88kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               125.25%             9.109MiB / 4GiB     0.22%               1.64MB / 7.55MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    208.40%             148MiB / 4GiB       3.61%               7.55MB / 1.64MB     0B / 0B             17
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               3.88kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               125.25%             9.109MiB / 4GiB     0.22%               1.64MB / 7.55MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    198.95%             161.3MiB / 4GiB     3.94%               10.2MB / 2.21MB     0B / 0B             17
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               4.38kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               89.78%              9.141MiB / 4GiB     0.22%               2.22MB / 10.2MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    198.95%             161.3MiB / 4GiB     3.94%               10.2MB / 2.21MB     0B / 0B             17
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               4.38kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               89.78%              9.141MiB / 4GiB     0.22%               2.22MB / 10.2MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    201.81%             161.8MiB / 4GiB     3.95%               13.4MB / 2.92MB     0B / 0B             17
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               4.87kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               106.05%             9.18MiB / 4GiB      0.22%               2.93MB / 13.4MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    201.81%             161.8MiB / 4GiB     3.95%               13.4MB / 2.92MB     0B / 0B             17
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               4.87kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               106.05%             9.18MiB / 4GiB      0.22%               2.93MB / 13.4MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    198.42%             161.7MiB / 4GiB     3.95%               16.9MB / 3.68MB     0B / 0B             17
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.3kB / 0B          0B / 0B             2
+1d74e8768cdb        nginx               114.13%             9.133MiB / 4GiB     0.22%               3.67MB / 16.8MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    198.42%             161.7MiB / 4GiB     3.95%               16.9MB / 3.68MB     0B / 0B             17
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.3kB / 0B          0B / 0B             2
+1d74e8768cdb        nginx               114.13%             9.133MiB / 4GiB     0.22%               3.67MB / 16.8MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    206.01%             162MiB / 4GiB       3.96%               19.6MB / 4.27MB     0B / 0B             17
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.52kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               92.00%              9.148MiB / 4GiB     0.22%               4.26MB / 19.5MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    206.01%             162MiB / 4GiB       3.96%               19.6MB / 4.27MB     0B / 0B             17
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.52kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               92.00%              9.148MiB / 4GiB     0.22%               4.26MB / 19.5MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    206.25%             162MiB / 4GiB       3.96%               23.4MB / 5.09MB     0B / 0B             17
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.76kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               132.12%             9.195MiB / 4GiB     0.22%               5.1MB / 23.4MB      0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    206.25%             162MiB / 4GiB       3.96%               23.4MB / 5.09MB     0B / 0B             17
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.76kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               132.12%             9.195MiB / 4GiB     0.22%               5.1MB / 23.4MB      0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    199.93%             166MiB / 4GiB       4.05%               27.2MB / 5.93MB     0B / 0B             18
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.92kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               92.10%              9.461MiB / 4GiB     0.23%               5.93MB / 27.2MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    199.93%             166MiB / 4GiB       4.05%               27.2MB / 5.93MB     0B / 0B             18
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.92kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               92.10%              9.461MiB / 4GiB     0.23%               5.93MB / 27.2MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    200.48%             166.1MiB / 4GiB     4.05%               30.7MB / 6.68MB     0B / 0B             18
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.92kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               93.24%              9.352MiB / 4GiB     0.23%               6.68MB / 30.7MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    200.48%             166.1MiB / 4GiB     4.05%               30.7MB / 6.68MB     0B / 0B             18
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.92kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               93.24%              9.352MiB / 4GiB     0.23%               6.68MB / 30.7MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    203.88%             166MiB / 4GiB       4.05%               35.5MB / 7.72MB     0B / 0B             18
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.92kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               118.55%             9.336MiB / 4GiB     0.23%               7.72MB / 35.4MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    203.88%             166MiB / 4GiB       4.05%               35.5MB / 7.72MB     0B / 0B             18
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.92kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               118.55%             9.336MiB / 4GiB     0.23%               7.72MB / 35.4MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    67.77%              166.3MiB / 4GiB     4.06%               35.6MB / 7.75MB     0B / 0B             18
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.92kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               6.59%               9.336MiB / 4GiB     0.23%               7.75MB / 35.6MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+638234c01310        benchmark-client    67.77%              166.3MiB / 4GiB     4.06%               35.6MB / 7.75MB     0B / 0B             18
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               5.92kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               6.59%               9.336MiB / 4GiB     0.23%               7.75MB / 35.6MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               6.12kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               0.32%               9.336MiB / 4GiB     0.23%               7.76MB / 35.6MB     0B / 8.19kB         9
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+5c9b6daae3ab        benchmark-base      0.00%               1.328MiB / 4GiB     0.03%               6.12kB / 0B         0B / 0B             2
+1d74e8768cdb        nginx               0.32%               9.336MiB / 4GiB     0.23%               7.76MB / 35.6MB     0B / 8.19kB         9

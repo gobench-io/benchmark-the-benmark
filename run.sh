@@ -1,3 +1,4 @@
+echo input benchmark client: 
 read CLIENT
 echo monitor benchmark client $CLIENT
 WORKER=nginx
@@ -13,4 +14,4 @@ cd $CLIENT && docker-compose --compatibility up -d --b
 
 echo streaming resource from benchmark client  $CLIENT  ....
 docker stats  > $CLIENT.top 
-# docker logs -f benchmark-client
+docker logs -f benchmark-client

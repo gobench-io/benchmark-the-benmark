@@ -5,5 +5,11 @@ RUN apk add git && \
 
 WORKDIR /$HOME
 
-ENTRYPOINT ["hey","-c", "1000","-z","30s","-disable-redirects", "-m", "GET", "http://nginx"]
+# Max RPS
+# ENTRYPOINT ["hey","-c", "1000","-z","30s","-disable-redirects", "-m", "GET", "http://nginx"] 
+# MEM/VU
+# ENTRYPOINT ["hey","-c", "1","-z","10s","-disable-redirects", "-m", "GET", "http://nginx"]
+ENTRYPOINT ["hey","-c", "5","-z","10s","-disable-redirects", "-m", "GET", "http://nginx"]
+# ENTRYPOINT ["hey","-c", "10","-z","10s","-disable-redirects", "-m", "GET", "http://nginx"]
+# ENTRYPOINT ["hey","-c", "20","-z","10s","-disable-redirects", "-m", "GET", "http://nginx"]
 

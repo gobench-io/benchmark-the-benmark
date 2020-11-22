@@ -6,12 +6,7 @@ services:
         restart: "no"
         ports:
             - 8080:8080
-        environment:
-            SCRIPT_2: |
-                const http = require('k6/http')
-                module.exports.default = function () {
-                http.get('http://nginx')
-                }
+        environment:  
             SCRIPT: |
                 const http = require('k6/http')
                 export default function () {
@@ -21,8 +16,12 @@ services:
             [
                 "sh",
                 "-c",
+                # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=1 --duration=10s ~/script.js',
+                # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=5 --duration=10s ~/script.js',
+                # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=10 --duration=10s ~/script.js',
+                'echo "$$SCRIPT" > ~/script.js; k6 run --vus=20 --duration=10s ~/script.js',
+                # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=30 --duration=30s --compatibility-mode=base ~/script.js',
                 # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=30 --duration=30s ~/script.js',
-                'echo "$$SCRIPT_2" > ~/script.js; k6 run --vus=30 --duration=30s --compatibility-mode=base ~/script.js',
             ]
         networks:
             - app-network
