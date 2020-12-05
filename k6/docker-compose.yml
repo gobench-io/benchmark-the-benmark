@@ -19,7 +19,7 @@ services:
                 # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=1 --duration=10s ~/script.js',
                 # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=5 --duration=10s ~/script.js',
                 # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=10 --duration=10s ~/script.js',
-                'echo "$$SCRIPT" > ~/script.js; k6 run --vus=20 --duration=10s ~/script.js',
+                'echo "$$SCRIPT" > ~/script.js; k6 run --vus=30 --duration=120s ~/script.js',
                 # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=30 --duration=30s --compatibility-mode=base ~/script.js',
                 # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=30 --duration=30s ~/script.js',
             ]
@@ -28,8 +28,8 @@ services:
         deploy:
             resources:
                 limits:
-                    cpus: "2"
-                    memory: 4g
+                    cpus: "9"
+                    memory: 24g
         depends_on:
             - nginx
     base:
@@ -41,8 +41,8 @@ services:
         deploy:
             resources:
                 limits:
-                    cpus: "2"
-                    memory: 4g
+                    cpus: "0.5"
+                    memory: 1g
         entrypoint: ["sh","-c","while sleep 3600; do :; done"]
     nginx:
         image: nginx:alpine
@@ -51,8 +51,8 @@ services:
         deploy:
             resources:
                 limits:
-                    cpus: "2"
-                    memory: 4g
+                    cpus: "6"
+                    memory: 12g
         tty: true
         ports:
             - "80:80"
