@@ -8,12 +8,14 @@ services:
             - 8080:8080
         environment:
             SCRIPT: |
-                config:
+                 config:
                     target: "http://nginx"
+                    http:
+                        maxSockets: 20
                     phases:
                         - duration: 120
                         arrivalRate: 1
-                scenarios:
+                 scenarios:
                     - flow:
                         - log: "New virtual user running"
                         - get:
