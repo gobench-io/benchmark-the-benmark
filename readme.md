@@ -11,3 +11,7 @@ Tail logs docker container to get current state:
 ```bash
 docker logs -f benchmark-client
 ```
+
+# The result 
+
+https://docs.google.com/spreadsheets/d/1w9ikB-WRKWVt_CNSNbh08A4D2SoNoQ401YPy8gkoZ5I/edit?usp=sharing
