@@ -3,30 +3,48 @@ services:
     client:
         container_name: benchmark-client
         image: quaddo/artillery:latest
-        restart: 'no'
+        restart: "no"
         ports:
             - 8080:8080
+        environment:
+            SCRIPT: |
+                config:
+                target: "http://nginx"
+                phases:
+                    - duration: 120
+                    arrivalRate: 1
+                scenarios:
+                - flow:
+                    - log: "New virtual user running"
+                    - get:
+                        url: "/"
+        entrypoint:
+            [
+                "sh",
+                "-c",
+                'echo "$$SCRIPT" > ~/scenario.yaml;artillery run ~/scenario.yaml',
+            ]
         networks:
             - app-network
         deploy:
             resources:
                 limits:
-                    cpus: "2"
-                    memory: 4g
+                    cpus: "10"
+                    memory: 24g
         depends_on:
             - nginx
     base:
         image: quaddo/artillery:latest
         container_name: benchmark-base
-        restart: 'no'
+        restart: "no"
         networks:
             - app-network
         deploy:
             resources:
                 limits:
-                    cpus: "2"
-                    memory: 4g
-        entrypoint: ["sh","-c","while sleep 3600; do :; done"]
+                    cpus: "0.5"
+                    memory: 1g
+        entrypoint: ["sh", "-c", "while sleep 3600; do :; done"]
         depends_on:
             - nginx
     nginx:
@@ -36,8 +54,8 @@ services:
         deploy:
             resources:
                 limits:
-                    cpus: "2"
-                    memory: 4g
+                    cpus: "6"
+                    memory: 12g
         tty: true
         ports:
             - "80:80"

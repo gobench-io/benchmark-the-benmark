@@ -1,0 +1,10 @@
+config:
+  target: "http://nginx"
+  phases:
+    - duration: 120
+      arrivalRate: 1
+scenarios:
+  - flow:
+      - log: "New virtual user running"
+      - get:
+          url: "/"
