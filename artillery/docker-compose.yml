@@ -9,15 +9,15 @@ services:
         environment:
             SCRIPT: |
                 config:
-                target: "http://nginx"
-                phases:
-                    - duration: 120
-                    arrivalRate: 1
+                    target: "http://nginx"
+                    phases:
+                        - duration: 120
+                        arrivalRate: 1
                 scenarios:
-                - flow:
-                    - log: "New virtual user running"
-                    - get:
-                        url: "/"
+                    - flow:
+                        - log: "New virtual user running"
+                        - get:
+                            url: "/"
         entrypoint:
             [
                 "sh",
