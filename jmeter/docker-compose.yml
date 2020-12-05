@@ -1,7 +1,7 @@
 version: "3"
 services:
     benchmark-client:
-        image: rdpanek/jmeter:latest
+        image: egaillardon/jmeter:latest
         container_name: benchmark-client
         restart: 'no'
         ports:
@@ -10,18 +10,19 @@ services:
             - app-network
         # environment:
             # DISPLAY: :0.0
-        entrypoint:
-            [
-                "sh",
-                "-c",
-                "jmeter",
-        #         # "-h"
-                # "-n",
-                # "–t",
-                # "test.jmx",
-                # "-l",
-                # "testresults.jtl",
-            ]
+        entrypoint: ["sh","-c","while sleep 3600; do :; done"]
+        # entrypoint:
+        #     [
+        #         "sh",
+        #         "-c",
+        #         "jmeter",
+        # #         # "-h"
+        #         # "-n",
+        #         # "–t",
+        #         # "test.jmx",
+        #         # "-l",
+        #         # "testresults.jtl",
+        #     ]
         deploy:
             resources:
                 limits:

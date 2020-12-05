@@ -1,28 +1,11 @@
 version: "3"
 services:
     client:
-        image: loadimpact/k6:0.29.0
         container_name: benchmark-client
-        restart: "no"
+        image: quaddo/artillery:latest
+        restart: 'no'
         ports:
             - 8080:8080
-        environment:  
-            SCRIPT: |
-                const http = require('k6/http')
-                export default function () {
-                http.get('http://nginx')
-                }
-        entrypoint:
-            [
-                "sh",
-                "-c",
-                # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=1 --duration=10s ~/script.js',
-                # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=5 --duration=10s ~/script.js',
-                # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=10 --duration=10s ~/script.js',
-                'echo "$$SCRIPT" > ~/script.js; k6 run --vus=20 --duration=10s ~/script.js',
-                # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=30 --duration=30s --compatibility-mode=base ~/script.js',
-                # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=30 --duration=30s ~/script.js',
-            ]
         networks:
             - app-network
         deploy:
@@ -33,7 +16,7 @@ services:
         depends_on:
             - nginx
     base:
-        image: loadimpact/k6:0.29.0
+        image: quaddo/artillery:latest
         container_name: benchmark-base
         restart: 'no'
         networks:
@@ -44,6 +27,8 @@ services:
                     cpus: "2"
                     memory: 4g
         entrypoint: ["sh","-c","while sleep 3600; do :; done"]
+        depends_on:
+            - nginx
     nginx:
         image: nginx:alpine
         container_name: nginx
