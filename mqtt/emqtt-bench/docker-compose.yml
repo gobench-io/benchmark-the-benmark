@@ -1,0 +1,31 @@
+version: "3"
+services:
+    benchmark-client:
+        image: emqtt-bench:latest
+        container_name: benchmark-client
+        restart: 'no'
+        ports:
+            - 8010:8010
+        entrypoint: ["sh","-c","while sleep 3600; do :; done"]
+        networks:
+            - app-network
+        deploy:
+            resources:
+                limits:
+                    cpus: "16"
+                    memory: 32g
+    base:
+        image: emqtt-bench:latest
+        container_name: benchmark-base
+        restart: 'no'
+        networks:
+            - app-network
+        deploy:
+            resources:
+                limits:
+                    cpus: "0.5"
+                    memory: 1g
+        entrypoint: ["sh","-c","while sleep 3600; do :; done"]
+networks:
+    app-network:
+        driver: bridge
