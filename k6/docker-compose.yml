@@ -10,7 +10,7 @@ services:
             SCRIPT: |
                 const http = require('k6/http')
                 export default function () {
-                http.get('http://nginx')
+                http.get('http://172.31.3.99')
                 }
         entrypoint:
             [
@@ -19,7 +19,7 @@ services:
                 # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=1 --duration=10s ~/script.js',
                 # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=5 --duration=10s ~/script.js',
                 # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=10 --duration=10s ~/script.js',
-                'echo "$$SCRIPT" > ~/script.js; k6 run --vus=20 --duration=120s ~/script.js',
+                'echo "$$SCRIPT" > ~/script.js; k6 run --vus=30 --duration=120s ~/script.js',
                 # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=30 --duration=30s --compatibility-mode=base ~/script.js',
                 # 'echo "$$SCRIPT" > ~/script.js; k6 run --vus=30 --duration=30s ~/script.js',
             ]
@@ -28,10 +28,8 @@ services:
         deploy:
             resources:
                 limits:
-                    cpus: "10"
-                    memory: 24g
-        depends_on:
-            - nginx
+                    cpus: "16"
+                    memory: 31g
     base:
         image: loadimpact/k6:0.29.0
         container_name: benchmark-base
@@ -44,21 +42,6 @@ services:
                     cpus: "0.5"
                     memory: 1g
         entrypoint: ["sh","-c","while sleep 3600; do :; done"]
-    nginx:
-        image: nginx:alpine
-        container_name: nginx
-        restart: unless-stopped
-        deploy:
-            resources:
-                limits:
-                    cpus: "6"
-                    memory: 12g
-        tty: true
-        ports:
-            - "80:80"
-            - "443:443"
-        networks:
-            - app-network
 networks:
     app-network:
         driver: bridge

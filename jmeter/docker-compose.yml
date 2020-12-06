@@ -26,10 +26,8 @@ services:
         deploy:
             resources:
                 limits:
-                    cpus: "10"
-                    memory: 24g
-        depends_on:
-            - nginx
+                    cpus: "16"
+                    memory: 32g
     base:
         image: egaillardon/jmeter:latest
         container_name: benchmark-base 
@@ -43,23 +41,6 @@ services:
                 limits:
                     cpus: "0.5"
                     memory: 1g
-        depends_on:
-            - nginx
-    nginx:
-        image: nginx:alpine
-        container_name: nginx
-        restart: unless-stopped
-        deploy:
-            resources:
-                limits:
-                    cpus: "6"
-                    memory: 12g
-        tty: true
-        ports:
-            - "80:80"
-            - "443:443"
-        networks:
-            - app-network
 networks:
     app-network:
         driver: bridge

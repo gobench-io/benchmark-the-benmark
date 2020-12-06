@@ -6,22 +6,14 @@ services:
         restart: 'no'
         ports:
             - 8080:8080
-        entrypoint:
-            [
-                "sh",
-                "-c",
-                "./gobench",
-                # "&& apk add curl && curl -X GET --header 'Content-Type: application/json' --header 'Accept: application/json' -d '{\"name\":\"scenario\",\"scenario\":\"cGFja2FnZSBzY2VuYXJpbwoKaW1wb3J0ICgKCSJjb250ZXh0IgoKCWh0dHAgImdpdGh1Yi5jb20vZ29iZW5jaC1pby9nb2JlbmNoL2NsaWVudHMvaHR0cCIKCSJnaXRodWIuY29tL2dvYmVuY2gtaW8vZ29iZW5jaC9leGVjdXRvci9zY2VuYXJpbyIKKQoKLy8gZXhwb3J0IHNjZW5hcmlvcwpmdW5jIGV4cG9ydCgpIHNjZW5hcmlvLlZ1cyB7CglyZXR1cm4gc2NlbmFyaW8uVnVzewoJCXsKCQkJTnU6ICAgMTAwMCwgLy8gMSB2dQoJCQlSYXRlOiAyMDAsCgkJCUZ1OiAgIGYsCgkJfSwKCX0KfQoKZnVuYyBmKGN0eCBjb250ZXh0LkNvbnRleHQsIHZ1aSBpbnQpIHsKCXZhciBlcnIgZXJyb3IKCgloZWFkZXJzIDo9IG1hcFtzdHJpbmddc3RyaW5newoJCSJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIsCgl9CgljbGllbnQsIGVyciA6PSBodHRwLk5ld0h0dHBDbGllbnQoY3R4LCAiTmdpbnhfV2VsY29tZV9QYWdlIikKCglmb3IgewoJCS8vIGNyZWF0ZSBuZXcgdXNlcgoJCWlmIF8sIGVyciA9IGNsaWVudC5HZXQoY3R4LCAiaHR0cDovL25naW54IiwgaGVhZGVycyk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4KCQl9Cgl9Cn0K\",\"gomod\":\"\",\"gosum\":\"\"}' 'http://google.com'",
-            ]
+        entrypoint: ["sh","-c","while sleep 3600; do :; done"]
         networks:
             - app-network
         deploy:
             resources:
                 limits:
-                    cpus: "2"
-                    memory: 4g
-        depends_on:
-            - nginx
+                    cpus: "16"
+                    memory: 32g
     base:
         image: nqdinh/gobench:latest
         container_name: benchmark-base
@@ -31,24 +23,9 @@ services:
         deploy:
             resources:
                 limits:
-                    cpus: "2"
-                    memory: 4g
+                    cpus: "0.5"
+                    memory: 1g
         entrypoint: ["sh","-c","while sleep 3600; do :; done"]
-    nginx:
-        image: nginx:alpine
-        container_name: nginx
-        restart: unless-stopped
-        deploy:
-            resources:
-                limits:
-                    cpus: "2"
-                    memory: 4g
-        tty: true
-        ports:
-            - "80:80"
-            - "443:443"
-        networks:
-            - app-network
 networks:
     app-network:
         driver: bridge
