@@ -1,0 +1,450 @@
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    2.47%               808.5MiB / 30.58GiB   2.58%               791MB / 202MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    2.47%               808.5MiB / 30.58GiB   2.58%               791MB / 202MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    166.80%             809.1MiB / 30.58GiB   2.58%               818MB / 209MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    166.80%             809.1MiB / 30.58GiB   2.58%               818MB / 209MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    166.02%             809.5MiB / 30.58GiB   2.58%               844MB / 215MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    166.02%             809.5MiB / 30.58GiB   2.58%               844MB / 215MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    167.96%             810.1MiB / 30.58GiB   2.59%               871MB / 222MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    167.96%             810.1MiB / 30.58GiB   2.59%               871MB / 222MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    162.07%             810.4MiB / 30.58GiB   2.59%               897MB / 229MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    162.07%             810.4MiB / 30.58GiB   2.59%               897MB / 229MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    162.11%             810.4MiB / 30.58GiB   2.59%               923MB / 236MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    162.11%             810.4MiB / 30.58GiB   2.59%               923MB / 236MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.60%             810.6MiB / 30.58GiB   2.59%               949MB / 242MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.60%             810.6MiB / 30.58GiB   2.59%               949MB / 242MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    166.16%             810.7MiB / 30.58GiB   2.59%               976MB / 249MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    166.16%             810.7MiB / 30.58GiB   2.59%               976MB / 249MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    162.12%             810.7MiB / 30.58GiB   2.59%               1GB / 256MB         15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    162.12%             810.7MiB / 30.58GiB   2.59%               1GB / 256MB         15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    164.69%             812.6MiB / 30.58GiB   2.59%               1.03GB / 263MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    164.69%             812.6MiB / 30.58GiB   2.59%               1.03GB / 263MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.33%             813.2MiB / 30.58GiB   2.60%               1.06GB / 269MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.33%             813.2MiB / 30.58GiB   2.60%               1.06GB / 269MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.41%             813.2MiB / 30.58GiB   2.60%               1.08GB / 276MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.41%             813.2MiB / 30.58GiB   2.60%               1.08GB / 276MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    173.05%             813.7MiB / 30.58GiB   2.60%               1.11GB / 283MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    173.05%             813.7MiB / 30.58GiB   2.60%               1.11GB / 283MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    167.46%             813.7MiB / 30.58GiB   2.60%               1.13GB / 290MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    167.46%             813.7MiB / 30.58GiB   2.60%               1.13GB / 290MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.77%             813.6MiB / 30.58GiB   2.60%               1.16GB / 297MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.77%             813.6MiB / 30.58GiB   2.60%               1.16GB / 297MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.78%             813.6MiB / 30.58GiB   2.60%               1.19GB / 303MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.78%             813.6MiB / 30.58GiB   2.60%               1.19GB / 303MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.60%             813.5MiB / 30.58GiB   2.60%               1.21GB / 310MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.60%             813.5MiB / 30.58GiB   2.60%               1.21GB / 310MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    185.42%             813.4MiB / 30.58GiB   2.60%               1.24GB / 317MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    185.42%             813.4MiB / 30.58GiB   2.60%               1.24GB / 317MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    199.21%             814.6MiB / 30.58GiB   2.60%               1.27GB / 324MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    199.21%             814.6MiB / 30.58GiB   2.60%               1.27GB / 324MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.16%             814.4MiB / 30.58GiB   2.60%               1.29GB / 330MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.16%             814.4MiB / 30.58GiB   2.60%               1.29GB / 330MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.80%             814.6MiB / 30.58GiB   2.60%               1.32GB / 337MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.80%             814.6MiB / 30.58GiB   2.60%               1.32GB / 337MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.99%             814.7MiB / 30.58GiB   2.60%               1.35GB / 344MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.99%             814.7MiB / 30.58GiB   2.60%               1.35GB / 344MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.35%             815.1MiB / 30.58GiB   2.60%               1.37GB / 350MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.35%             815.1MiB / 30.58GiB   2.60%               1.37GB / 350MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.07%             815.2MiB / 30.58GiB   2.60%               1.4GB / 357MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.07%             815.2MiB / 30.58GiB   2.60%               1.4GB / 357MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.71%             815.2MiB / 30.58GiB   2.60%               1.42GB / 364MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.71%             815.2MiB / 30.58GiB   2.60%               1.42GB / 364MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    162.62%             815.3MiB / 30.58GiB   2.60%               1.45GB / 371MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    162.62%             815.3MiB / 30.58GiB   2.60%               1.45GB / 371MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.90%             815.5MiB / 30.58GiB   2.60%               1.48GB / 378MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.90%             815.5MiB / 30.58GiB   2.60%               1.48GB / 378MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.64%             815.4MiB / 30.58GiB   2.60%               1.5GB / 384MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.64%             815.4MiB / 30.58GiB   2.60%               1.5GB / 384MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.98%             815.4MiB / 30.58GiB   2.60%               1.53GB / 391MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.98%             815.4MiB / 30.58GiB   2.60%               1.53GB / 391MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.94%             815.5MiB / 30.58GiB   2.60%               1.56GB / 398MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.94%             815.5MiB / 30.58GiB   2.60%               1.56GB / 398MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.27%             815.5MiB / 30.58GiB   2.60%               1.58GB / 404MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.27%             815.5MiB / 30.58GiB   2.60%               1.58GB / 404MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.48%             815.4MiB / 30.58GiB   2.60%               1.61GB / 411MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.48%             815.4MiB / 30.58GiB   2.60%               1.61GB / 411MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.43%             815.7MiB / 30.58GiB   2.60%               1.64GB / 418MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.43%             815.7MiB / 30.58GiB   2.60%               1.64GB / 418MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.41%             815.3MiB / 30.58GiB   2.60%               1.66GB / 425MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.41%             815.3MiB / 30.58GiB   2.60%               1.66GB / 425MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.65%             815.3MiB / 30.58GiB   2.60%               1.69GB / 431MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.65%             815.3MiB / 30.58GiB   2.60%               1.69GB / 431MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.70%             815.7MiB / 30.58GiB   2.60%               1.71GB / 438MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.70%             815.7MiB / 30.58GiB   2.60%               1.71GB / 438MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.99%             815.6MiB / 30.58GiB   2.60%               1.74GB / 445MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.99%             815.6MiB / 30.58GiB   2.60%               1.74GB / 445MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.39%             815.7MiB / 30.58GiB   2.60%               1.77GB / 451MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.39%             815.7MiB / 30.58GiB   2.60%               1.77GB / 451MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.08%             815.6MiB / 30.58GiB   2.60%               1.79GB / 458MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.08%             815.6MiB / 30.58GiB   2.60%               1.79GB / 458MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.26%             815.4MiB / 30.58GiB   2.60%               1.82GB / 465MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.26%             815.4MiB / 30.58GiB   2.60%               1.82GB / 465MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.76%             815.5MiB / 30.58GiB   2.60%               1.85GB / 472MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.76%             815.5MiB / 30.58GiB   2.60%               1.85GB / 472MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.28%             815.6MiB / 30.58GiB   2.60%               1.87GB / 478MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.28%             815.6MiB / 30.58GiB   2.60%               1.87GB / 478MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.11%             815.5MiB / 30.58GiB   2.60%               1.9GB / 485MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.11%             815.5MiB / 30.58GiB   2.60%               1.9GB / 485MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.26%             815.4MiB / 30.58GiB   2.60%               1.92GB / 492MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.26%             815.4MiB / 30.58GiB   2.60%               1.92GB / 492MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.82%             815.4MiB / 30.58GiB   2.60%               1.95GB / 499MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.82%             815.4MiB / 30.58GiB   2.60%               1.95GB / 499MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    162.18%             815.3MiB / 30.58GiB   2.60%               1.98GB / 505MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    162.18%             815.3MiB / 30.58GiB   2.60%               1.98GB / 505MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.92%             815.2MiB / 30.58GiB   2.60%               2GB / 512MB         15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.92%             815.2MiB / 30.58GiB   2.60%               2GB / 512MB         15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    162.01%             815.2MiB / 30.58GiB   2.60%               2.03GB / 519MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    162.01%             815.2MiB / 30.58GiB   2.60%               2.03GB / 519MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.18%             815MiB / 30.58GiB   2.60%               2.06GB / 526MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.18%             815MiB / 30.58GiB   2.60%               2.06GB / 526MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.64%             815MiB / 30.58GiB   2.60%               2.08GB / 533MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.64%             815MiB / 30.58GiB   2.60%               2.08GB / 533MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.56%             815.2MiB / 30.58GiB   2.60%               2.11GB / 539MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.56%             815.2MiB / 30.58GiB   2.60%               2.11GB / 539MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.50%             815.4MiB / 30.58GiB   2.60%               2.14GB / 546MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.50%             815.4MiB / 30.58GiB   2.60%               2.14GB / 546MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.85%             815.5MiB / 30.58GiB   2.60%               2.16GB / 553MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.85%             815.5MiB / 30.58GiB   2.60%               2.16GB / 553MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.63%             815.3MiB / 30.58GiB   2.60%               2.19GB / 560MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.63%             815.3MiB / 30.58GiB   2.60%               2.19GB / 560MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.25%             815.4MiB / 30.58GiB   2.60%               2.22GB / 566MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.25%             815.4MiB / 30.58GiB   2.60%               2.22GB / 566MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.25%             815.3MiB / 30.58GiB   2.60%               2.24GB / 573MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.25%             815.3MiB / 30.58GiB   2.60%               2.24GB / 573MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    186.29%             815.3MiB / 30.58GiB   2.60%               2.27GB / 580MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    186.29%             815.3MiB / 30.58GiB   2.60%               2.27GB / 580MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.72%             815.3MiB / 30.58GiB   2.60%               2.29GB / 586MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.72%             815.3MiB / 30.58GiB   2.60%               2.29GB / 586MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.48%             815.2MiB / 30.58GiB   2.60%               2.32GB / 593MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.48%             815.2MiB / 30.58GiB   2.60%               2.32GB / 593MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.93%             815.2MiB / 30.58GiB   2.60%               2.35GB / 600MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.93%             815.2MiB / 30.58GiB   2.60%               2.35GB / 600MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.81%             815.4MiB / 30.58GiB   2.60%               2.37GB / 607MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.81%             815.4MiB / 30.58GiB   2.60%               2.37GB / 607MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.93%             815.5MiB / 30.58GiB   2.60%               2.4GB / 613MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.93%             815.5MiB / 30.58GiB   2.60%               2.4GB / 613MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.91%             815.3MiB / 30.58GiB   2.60%               2.43GB / 620MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.91%             815.3MiB / 30.58GiB   2.60%               2.43GB / 620MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.05%             815.4MiB / 30.58GiB   2.60%               2.45GB / 627MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.05%             815.4MiB / 30.58GiB   2.60%               2.45GB / 627MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.28%             815.4MiB / 30.58GiB   2.60%               2.48GB / 634MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.28%             815.4MiB / 30.58GiB   2.60%               2.48GB / 634MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    164.29%             815.3MiB / 30.58GiB   2.60%               2.51GB / 640MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    164.29%             815.3MiB / 30.58GiB   2.60%               2.51GB / 640MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    141.73%             815.3MiB / 30.58GiB   2.60%               2.53GB / 646MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    141.73%             815.3MiB / 30.58GiB   2.60%               2.53GB / 646MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.95%             815.4MiB / 30.58GiB   2.60%               2.56GB / 653MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.95%             815.4MiB / 30.58GiB   2.60%               2.56GB / 653MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.09%             815.4MiB / 30.58GiB   2.60%               2.58GB / 660MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.09%             815.4MiB / 30.58GiB   2.60%               2.58GB / 660MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.02%             815.4MiB / 30.58GiB   2.60%               2.61GB / 667MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.02%             815.4MiB / 30.58GiB   2.60%               2.61GB / 667MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.60%             815.5MiB / 30.58GiB   2.60%               2.63GB / 673MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.60%             815.5MiB / 30.58GiB   2.60%               2.63GB / 673MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    156.95%             815.4MiB / 30.58GiB   2.60%               2.66GB / 680MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    156.95%             815.4MiB / 30.58GiB   2.60%               2.66GB / 680MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    155.25%             815.4MiB / 30.58GiB   2.60%               2.69GB / 687MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    155.25%             815.4MiB / 30.58GiB   2.60%               2.69GB / 687MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.10%             815.4MiB / 30.58GiB   2.60%               2.71GB / 693MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.10%             815.4MiB / 30.58GiB   2.60%               2.71GB / 693MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.99%             815.4MiB / 30.58GiB   2.60%               2.74GB / 700MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.99%             815.4MiB / 30.58GiB   2.60%               2.74GB / 700MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.19%             815.4MiB / 30.58GiB   2.60%               2.77GB / 707MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.19%             815.4MiB / 30.58GiB   2.60%               2.77GB / 707MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.69%             815.2MiB / 30.58GiB   2.60%               2.79GB / 714MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.69%             815.2MiB / 30.58GiB   2.60%               2.79GB / 714MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.44%             815.5MiB / 30.58GiB   2.60%               2.82GB / 721MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.44%             815.5MiB / 30.58GiB   2.60%               2.82GB / 721MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.64%             815.5MiB / 30.58GiB   2.60%               2.85GB / 727MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.64%             815.5MiB / 30.58GiB   2.60%               2.85GB / 727MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.68%             815.7MiB / 30.58GiB   2.60%               2.87GB / 734MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    163.68%             815.7MiB / 30.58GiB   2.60%               2.87GB / 734MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.40%             815.7MiB / 30.58GiB   2.60%               2.9GB / 741MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.40%             815.7MiB / 30.58GiB   2.60%               2.9GB / 741MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.80%             815.7MiB / 30.58GiB   2.60%               2.93GB / 748MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.80%             815.7MiB / 30.58GiB   2.60%               2.93GB / 748MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.30%             815.8MiB / 30.58GiB   2.61%               2.95GB / 754MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.30%             815.8MiB / 30.58GiB   2.61%               2.95GB / 754MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.61%             815.7MiB / 30.58GiB   2.60%               2.98GB / 761MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.61%             815.7MiB / 30.58GiB   2.60%               2.98GB / 761MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.36%             816.1MiB / 30.58GiB   2.61%               3GB / 768MB         15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.36%             816.1MiB / 30.58GiB   2.61%               3GB / 768MB         15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.91%             816MiB / 30.58GiB   2.61%               3.03GB / 775MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.91%             816MiB / 30.58GiB   2.61%               3.03GB / 775MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    156.71%             816.3MiB / 30.58GiB   2.61%               3.06GB / 781MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    156.71%             816.3MiB / 30.58GiB   2.61%               3.06GB / 781MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.41%             816.3MiB / 30.58GiB   2.61%               3.08GB / 788MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.41%             816.3MiB / 30.58GiB   2.61%               3.08GB / 788MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    167.49%             816.1MiB / 30.58GiB   2.61%               3.11GB / 795MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    167.49%             816.1MiB / 30.58GiB   2.61%               3.11GB / 795MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    167.28%             816.1MiB / 30.58GiB   2.61%               3.14GB / 801MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    167.28%             816.1MiB / 30.58GiB   2.61%               3.14GB / 801MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.38%             815.9MiB / 30.58GiB   2.61%               3.16GB / 808MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    165.38%             815.9MiB / 30.58GiB   2.61%               3.16GB / 808MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    164.35%             815.7MiB / 30.58GiB   2.60%               3.19GB / 815MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    164.35%             815.7MiB / 30.58GiB   2.60%               3.19GB / 815MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.36%             815.7MiB / 30.58GiB   2.60%               3.21GB / 822MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.36%             815.7MiB / 30.58GiB   2.60%               3.21GB / 822MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.75%             815.7MiB / 30.58GiB   2.60%               3.24GB / 828MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.75%             815.7MiB / 30.58GiB   2.60%               3.24GB / 828MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.76%             815.7MiB / 30.58GiB   2.60%               3.27GB / 835MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.76%             815.7MiB / 30.58GiB   2.60%               3.27GB / 835MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.47%             816.1MiB / 30.58GiB   2.61%               3.29GB / 842MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.47%             816.1MiB / 30.58GiB   2.61%               3.29GB / 842MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.10%             816MiB / 30.58GiB   2.61%               3.32GB / 849MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.10%             816MiB / 30.58GiB   2.61%               3.32GB / 849MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.39%             816MiB / 30.58GiB   2.61%               3.35GB / 855MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.39%             816MiB / 30.58GiB   2.61%               3.35GB / 855MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.36%             815.8MiB / 30.58GiB   2.61%               3.37GB / 862MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.36%             815.8MiB / 30.58GiB   2.61%               3.37GB / 862MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.14%             815.8MiB / 30.58GiB   2.61%               3.4GB / 869MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.14%             815.8MiB / 30.58GiB   2.61%               3.4GB / 869MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.95%             815.7MiB / 30.58GiB   2.60%               3.42GB / 876MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    157.95%             815.7MiB / 30.58GiB   2.60%               3.42GB / 876MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.70%             815.8MiB / 30.58GiB   2.61%               3.45GB / 882MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    161.70%             815.8MiB / 30.58GiB   2.61%               3.45GB / 882MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    156.87%             815.8MiB / 30.58GiB   2.61%               3.48GB / 889MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    156.87%             815.8MiB / 30.58GiB   2.61%               3.48GB / 889MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.46%             815.5MiB / 30.58GiB   2.60%               3.5GB / 896MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    159.46%             815.5MiB / 30.58GiB   2.60%               3.5GB / 896MB       15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.54%             815.5MiB / 30.58GiB   2.60%               3.53GB / 902MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    160.54%             815.5MiB / 30.58GiB   2.60%               3.53GB / 902MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.94%             815.5MiB / 30.58GiB   2.60%               3.56GB / 909MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    158.94%             815.5MiB / 30.58GiB   2.60%               3.56GB / 909MB      15.9MB / 479kB      90
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    125.80%             814.1MiB / 30.58GiB   2.60%               3.58GB / 914MB      15.9MB / 479kB      64
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    125.80%             814.1MiB / 30.58GiB   2.60%               3.58GB / 914MB      15.9MB / 479kB      64
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    5.62%               13.76MiB / 30.58GiB   0.04%               3.58GB / 914MB      15.9MB / 487kB      3
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    5.62%               13.76MiB / 30.58GiB   0.04%               3.58GB / 914MB      15.9MB / 487kB      3
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    0.00%               13.65MiB / 30.58GiB   0.04%               3.58GB / 914MB      15.9MB / 487kB      3
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    0.00%               13.65MiB / 30.58GiB   0.04%               3.58GB / 914MB      15.9MB / 487kB      3
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    0.00%               13.57MiB / 30.58GiB   0.04%               3.58GB / 914MB      15.9MB / 487kB      3
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    0.00%               13.57MiB / 30.58GiB   0.04%               3.58GB / 914MB      15.9MB / 487kB      3
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    0.00%               13.37MiB / 30.58GiB   0.04%               3.58GB / 914MB      15.9MB / 487kB      3
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    0.00%               13.37MiB / 30.58GiB   0.04%               3.58GB / 914MB      15.9MB / 487kB      3
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    0.00%               13.31MiB / 30.58GiB   0.04%               3.58GB / 914MB      15.9MB / 487kB      3
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    0.00%               13.31MiB / 30.58GiB   0.04%               3.58GB / 914MB      15.9MB / 487kB      3
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+4f14baed9447        benchmark-client    0.00%               13.31MiB / 30.58GiB   0.04%               3.58GB / 914MB      15.9MB / 487kB      3
